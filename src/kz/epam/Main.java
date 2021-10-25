@@ -1,5 +1,9 @@
 package kz.epam;
 
+import kz.epam.generator.AuthorsGenerator;
+import kz.epam.generator.AuthorsGeneratorImpl;
+import kz.epam.generator.BooksGenerator;
+import kz.epam.generator.BooksGeneratorImpl;
 import kz.epam.model.Author;
 
 import java.util.*;

@@ -1,4 +1,4 @@
-package kz.epam;
+package kz.epam.generator;
 
 import kz.epam.model.*;
 import java.util.*;
